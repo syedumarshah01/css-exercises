@@ -1,0 +1,17 @@
+.odd-numbered-elements {
+    background-color: rgba(255, 0, 0, .3);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#blue-text {
+    color: blue;
+    font-size: 36px;
+}
+
+.size {
+    font-size: 24px;
+}
+
+#green-bg {
+    background-color: rgba(0, 255, 0, .3);
+}
